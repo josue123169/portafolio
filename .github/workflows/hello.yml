@@ -14,7 +14,7 @@ jobs:
         uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: ${{ github.event.issue.number }}
-          body: "👋 ¡Gracias por tu aporte! El equipo revisará tu issue pronto."
+          body: "👋 ¡Gracias por tu aporte! El equipo revisará tu issu pronto."
 
 
 
